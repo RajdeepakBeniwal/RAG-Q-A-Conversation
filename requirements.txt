@@ -7,3 +7,4 @@ langserve[all]
 streamlit
 chromadb==0.4.24
 langchain-chroma==0.2.0
+python-dotenv
